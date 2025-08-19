@@ -1,0 +1,1 @@
+A front-end replica of the Myntra website, built with HTML and CSS. This project showcases the visual layout and design of the popular fashion e-commerce platform. It includes the homepage structure, navigation bar, product listings, and a responsive design for different screen sizes.
